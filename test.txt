@@ -1,2 +1,2 @@
-my first git commit change
+my second git commit
 
